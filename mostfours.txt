@@ -1,0 +1,12 @@
+                 >>>>>>>>>>>>  Most fours  <<<<<<<<<<<
+POS	PLAYER	             CURRENT TEAM	      MATCHES	INNS	RUNS	FOURS
+1	Jonny Bairstow	   Sunrisers Hyderabad	        5	 5	262	33
+2	David Warner	   Sunrisers Hyderabad	        5	 5	279	25
+3	Jos Buttler	   Rajasthan Royals	        5	 5	176	25
+4	Prithvi Shaw	   Delhi Capitals	        6	 6	169	25
+5	Shreyas Iyer	   Delhi Capitals	        6	 6	215	22
+6	Parthiv Patel	   Royal Challengers Bangalore	6	 6	172	21
+7	Virat Kohli	   Royal Challengers Bangalore	6	 6 	203	19
+8	Sarfaraz Khan	   Kings XI Punjab	        5	 4	165	18
+9	Shikhar Dhawan	   Delhi Capitals	        6	 6	152	18
+10	Robin Uthappa	   Kolkata Knight Riders	5	 4	146	17

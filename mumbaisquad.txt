@@ -1,0 +1,24 @@
+Name    : Rohit sharma          Name    : surya kumar yadav         Name    : Hardik pandya   
+Age     : 32                    Age     : 28                        Age     : 25
+Runs    : 4611                  Runs    : 1237                      Runs    : 768
+Highest : 109                   Highest : 72                        Highest : 61                                        Average : 31.58                 Average : 26.32                     Average : 24.77
+SR      : 130.81                SR      : 132.16                    SR      : 143.02 
+50s     : 34                    50s     : 6                         50s     : 2
+100s    : 1                     100s    : 0                         100s    : 0
+                                                           
+
+Name    : Kieron pollard        Name         : Jasprit Bumrah       Name         : Lasith Malinga     
+Age     : 31                    Age          : 25                   Age          : 35
+Runs    : 2572                  Wickets      : 68                   Wickets      : 157
+Highest : 78                    Best bowling : 3/7                  Best bowling : 5/13                
+Average : 28.26                 Average      : 27.94                Average      : 19.31
+SR      : 146.14                Economy      : 7.73                 SR           : 6.93 
+50s     : 13                    maidens      : 2                    50s          : 8 
+100s    : 0                     4 wickets    : 0                    100s         : 4
+
+
+
+
+
+
+  

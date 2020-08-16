@@ -1,0 +1,12 @@
+                 >>>>>>>>>> Most Sixes <<<<<<<<<<<
+POS	PLAYER	          CURRENT TEAM	         MATCHES  INNS	RUNS	SIXES
+1	Andre Russell	   Kolkata Knight Riders    4	   4	207	22
+2	Nitish Rana	   Kolkata Knight Riders    4	   4	169	12
+3	AB de Villiers	   RCB	                    6	   6	173	11
+4	David Warner	   Sunrisers Hyderabad	    5	   5	279	10
+5	Jonny Bairstow	   Sunrisers Hyderabad	    5	   5	262	10
+6	Rishabh Pant	   Delhi Capitals	    6	   6	176	10
+7	Chris Gayle	   Kings XI Punjab	    4	   4	144	10
+8	Hardik Pandya	   Mumbai Indians	    5	   5	102	8
+9	Shreyas Iyer	   Delhi Capitals	    6	   6	215	7
+10	Kieron Pollard	   Mumbai Indians	    5	   5	96	7

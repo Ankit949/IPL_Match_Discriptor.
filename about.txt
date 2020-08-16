@@ -1,0 +1,1 @@
+IPL simulator is a sports news website and app covering the game of cricket exclusively. The site features news, articles, live coverage of cricket matches (including ,scorecards), player rankings and team rankings. The website also offers many mobile apps. CricBuzz is also the largest mobile app for cricket news and scores in India.

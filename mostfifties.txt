@@ -1,0 +1,13 @@
+               >>>>>>>>>>>> Most fifties <<<<<<<<<<<<
+POS	PLAYER	        CURRENT TEAM	          MATCHES    INNS	50s	90s	RUNS	H.S
+1	David Warner	Sunrisers Hyderabad	    5	       5	2	-	279	100
+2	AB de Villiers	RCB	                    6	       6	2	-	173	70
+3	Nitish Rana	Kolkata Knight Riders	    4	       4	2	-	169	68
+4	Lokesh Rahul	Kings XI Punjab	            5	       5	2	-	146	71
+5	Jos Buttler	Rajasthan Royals	    4	       4	2	-	139	69
+6	Shreyas Iyer	Delhi Capitals	            6	       6	1	-	215	67
+7	Andre Russell	Kolkata Knight Riders	    4	       4	1	-	207	62
+8	Virat Kohli	RCB	                    6	       6	1	-	203	84
+9	Rishabh Pant	Delhi Capitals	            6	       6	1	-	176	78
+10	Parthiv Patel	RCB	                    6	       6	1	-	172	67
+

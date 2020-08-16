@@ -1,0 +1,62 @@
+class miplayer{
+		string name;
+		int age;
+		float average;
+		float strikerate;
+		int highest;
+		int fifties;
+		int hundreds;
+		public:
+			void read_data()
+			{
+				cout<<"\n Enter the name of the player: ";
+				cin>>name;
+				cout<<"\n Enter the age: ";
+				cin>>age;
+				cout<<"\n average : ";
+				cin>>average;
+				cout<<"\n Enter the strikerate: ";
+				cin>>strikerate;
+				cout<<"\n Enter the highest: ";
+				cin>>highest;
+				cout<<"\n Enter the fifties: ";
+				cin>>fifties;
+				cout<<"\n Enter the hundreds: ";
+				cin>>hundreds;
+				
+				
+			}
+			void show_data()
+			{cout<<"\n player name: "<<name;
+			cout<<"\n plater age: "<<age;
+			cout<<"\n player average: "<<average;
+			cout<<"\n player strikerate: "<<strikerate;
+			cout<<"\n player highest: "<<highest;
+			cout<<"\n player fifties: "<<fifties;
+			cout<<"\n player hundreds: "<<hundreds;	
+			}
+        };
+   /* fstream FILE;
+	miplayer e[11];
+	int i;
+	FILE.open("mumbaiplayers.txt",ios::out);
+	cout<<"\n Enter the data of eleven players";
+	cout<<"\n---------------------------------";
+	for(i=0;i<11;i++)
+	{
+	e[i].read_data();
+		FILE.write((char*)&e[i],sizeof(e[i]));
+	}
+	FILE.close();*/
+	miplayer k;
+	int no;
+	fstream FILE;
+	FILE.open("mumbaiplayers.txt",ios::in);
+	cout<<"\n Enter the player whose data must be searched";
+	cin>>no;
+	int location=(no-1)*sizeof(k);
+	FILE.seekg(location);
+	FILE.read((char*)&k,sizeof(k));
+	k.show_data();
+			
+		}

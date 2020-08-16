@@ -1,0 +1,14 @@
+                          >>>>>>>>>>  Orange cap  <<<<<<<<<<<
+
+POS	PLAYER	            CURRENT TEAM	       INN	RUNS	AVG	SR	4s	6s
+1	David Warner	  Sunrisers Hyderabad	        5	279	69.75	158.52	25	10
+2	Jonny Bairstow	  Sunrisers Hyderabad	        5	262	52.40	166.88	33	10
+3	Shreyas Iyer	  Delhi Capitals	        6	215	35.83	122.86	22	7
+4	Andre Russell	  Kolkata Knight Riders	        4	207	103.50	268.83	12	22
+5	Virat Kohli	  Royal Challengers Bangalore	6	203	33.83	126.09	19	4
+6	Rishabh Pant	  Delhi Capitals	        6	176	35.20	172.55	15	10
+7	AB de Villiers	  Royal Challengers Bangalore	6	173	34.60	157.27	12	11
+8	Parthiv Patel	  Royal Challengers Bangalore	6	172	28.67	123.74	21	2
+9	Prithvi Shaw	  Delhi Capitals	        6	169	28.17	152.25	25	3
+10	Nitish Rana	  Kolkata Knight Riders	        4	169	42.25	159.43	11	12
+
